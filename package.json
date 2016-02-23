@@ -1,0 +1,19 @@
+{
+  "name": "simple-co",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dnxbf321@github.com/dnxbf321/simple-co.git"
+  },
+  "author": "Jason Deng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dnxbf321/simple-co/issues"
+  },
+  "homepage": "https://github.com/dnxbf321/simple-co#readme"
+}
